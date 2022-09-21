@@ -1,2 +1,2 @@
 #2 be or... not to be
-This project is mistake!
+This project is not a mistake!
